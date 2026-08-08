@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
+| [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
 | ------- |
