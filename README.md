@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
