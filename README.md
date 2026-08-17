@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
