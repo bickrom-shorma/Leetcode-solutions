@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
+| [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -74,6 +75,7 @@
 | [0258-add-digits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
