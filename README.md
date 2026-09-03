@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
