@@ -17,6 +17,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [2652-sum-multiples](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
@@ -61,6 +63,7 @@
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
