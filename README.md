@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
+| [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
