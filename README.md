@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
