@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -125,4 +127,20 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
