@@ -18,6 +18,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
