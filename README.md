@@ -17,6 +17,7 @@
 | [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## String
