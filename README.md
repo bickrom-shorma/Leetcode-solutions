@@ -15,6 +15,7 @@
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0001-two-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -58,6 +60,7 @@
 | [0191-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2527-find-xor-beauty-of-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2527-find-xor-beauty-of-array) |
 ## Recursion
@@ -89,6 +92,7 @@
 | [0657-robot-return-to-origin](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -162,4 +166,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
