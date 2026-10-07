@@ -46,6 +46,7 @@
 | [0728-self-dividing-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -76,6 +77,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2396-strictly-palindromic-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [4030-check-ascii-palindromic](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
