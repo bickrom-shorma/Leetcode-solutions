@@ -45,6 +45,7 @@
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -62,6 +63,7 @@
 | [0191-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0338-counting-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1486-xor-operation-in-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2032-two-out-of-three) |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
