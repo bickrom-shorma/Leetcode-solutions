@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -119,11 +120,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
