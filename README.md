@@ -14,6 +14,7 @@
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2032-two-out-of-three) |
@@ -66,6 +67,7 @@
 | [0231-power-of-two](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2032-two-out-of-three) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
