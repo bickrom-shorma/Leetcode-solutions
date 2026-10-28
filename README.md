@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
@@ -64,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0231-power-of-two) |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
