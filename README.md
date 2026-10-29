@@ -91,6 +91,7 @@
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [4030-check-ascii-palindromic](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
@@ -115,6 +116,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2942-find-words-containing-character](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [4030-check-ascii-palindromic](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/4030-check-ascii-palindromic) |
