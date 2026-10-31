@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -51,6 +52,7 @@
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -134,6 +136,7 @@
 | [0070-climbing-stairs](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -221,4 +224,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0078-subsets) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
