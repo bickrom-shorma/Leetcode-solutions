@@ -51,6 +51,7 @@
 | [0258-add-digits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
@@ -130,6 +132,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
