@@ -19,6 +19,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -98,6 +99,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3884-first-matching-character-from-both-ends](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -108,6 +110,7 @@
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2418-sort-the-people](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
