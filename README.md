@@ -15,6 +15,7 @@
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1089-duplicate-zeros](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -143,6 +145,7 @@
 | [0537-complex-number-multiplication](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2974-minimum-number-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bickrom-shorma/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Geometry
 |  |
